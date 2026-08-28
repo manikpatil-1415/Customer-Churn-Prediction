@@ -1,20 +1,19 @@
-# Customer Churn Prediction using Python & Machine Learning
+# Customer Churn Analysis & Prediction using Python
 
 ## 📌 Project Overview
+This project analyzes customer data to identify patterns and factors associated with customer churn.
 
-This project predicts whether a customer is likely to churn using machine learning classification models.
-
-The project includes data preprocessing, feature scaling, model training, evaluation, comparison, and feature importance analysis.
+The project includes data cleaning, exploratory data analysis, feature analysis, data preprocessing, visualization, and predictive modeling to support data-driven business insights.
 
 ## 🛠️ Technologies Used
 
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
-- Google Colab
-- GitHub
+- Seaborn
+- Scikit-learn
+- Joblib
 
 ## 🤖 Machine Learning Models
 
