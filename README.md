@@ -66,6 +66,10 @@ The Random Forest model achieved **92.13% accuracy** on the test dataset.
 
 Among the tested models, Random Forest performed the best based on overall accuracy. Feature importance analysis also helped identify the customer attributes that contributed most to churn prediction.
 
+## 💡 Business Takeaway
+
+The analysis suggests that customer usage patterns and service interactions can help identify customers at higher risk of churn. These insights can support targeted retention strategies.
+
 ## 👨‍💻 Author
 
 Manik Dnyaneshwar Patil
